@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.spisok {
+    margin-top: 80px;
+    margin-left: 60px;
+}
+
+.currency_list {
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.exchange_today, table {
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.header {
+    text-align: center;
+    font-weight: bold;
+}
+
+table, tr, td, th {
+    border: 2px solid black;
+    font-size: 15px;
+    padding: 2px;
+    }
+
+td img {
+        width: 60px;
+        height: 30px;
+    }
